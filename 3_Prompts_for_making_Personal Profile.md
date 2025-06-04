@@ -1,5 +1,5 @@
 
-# 🧠 Personal Website Generator Workflow  
+# 🧠 Personal Website Generator Workflow using Prompts 
 Using ChatGPT + Lovable.ai to Build a Sleek One-Page Website
 
 This markdown outlines a 3-step workflow to generate a personal one-page website using **ChatGPT** for planning and **Lovable.ai** for final visual generation.  

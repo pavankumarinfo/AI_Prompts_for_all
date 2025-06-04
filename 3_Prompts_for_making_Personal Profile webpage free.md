@@ -15,12 +15,14 @@ Perfect for developers, technologists, and AI enthusiasts — with clean Swiss d
 | 2️⃣   | ChatGPT      | Combine everything into one complete markdown layout for Lovable        |
 | 3️⃣   | Lovable.ai   | Paste markdown to generate the final, styled personal website           |
 
-# Prompt 1: Define Website Structure & Design (Use in ChatGPT)
+Note: Set GPT to 'search' mode so it can look up information using Google Search.
+![image](https://github.com/user-attachments/assets/a299e649-3c7b-41d0-9739-56e063e35c8c)
 
+# Prompt 1: Define Website Structure & Design (Use in ChatGPT) 
 Can you act as my Visual Web Designer to build a modern, sleek one-page personal website?
 
 Objective:  
-Research and understand everything about Pavan Kumar Pabbisetty, an AI enthusiast and GitHub contributor (https://github.com/pavankumarinfo).  
+Research and understand everything about Pavan firstname, lastname, an AI enthusiast and GitHub contributor (https://github.com/pavankumarinfo).  
 Extract and curate the key highlights, achievements, and personal insights to feature on the site.
 
 Audience:  
